@@ -7,4 +7,4 @@ Tag-Tag dasar didalam nya mempunyai banyak arti untuk dapat diterjemahkan dalam 
 Setiap tag memiliki pendeskripsian konten yang berbeda. Untuk membaca dokumen HTML dan menampilkan sebagai halaman web bisa
 menggunakan web broser yaitu Mozila Firefox, Google Chrome, Safari dan lain sebagai nya yang sejenis.
 
-Bisa cek Tag-Tag nya di repositori ya yang mau belajar...
+Bisa cek Tag-Tag nya di repositori ya yang mau belajar...🤞

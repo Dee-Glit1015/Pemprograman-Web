@@ -12,7 +12,8 @@ menggunakan web broser yaitu Mozila Firefox, Google Chrome, Safari dan lain seba
 
 <b> 1. HTML ENCODING/CHARSET</b>
 <p align = "justify"> HTML Charset ini berguna untuk menampilkan halaman HTML secara benar,guna dari tag ini agar web browser harus mengetahui pengaturan yang akan digunakan. </p>
-
+<b> 2. HTML HEADING </b>
+<p align = "justify"> HTML Heading adalah tag dasar html yang berfungsi untuk membuat heading pada tampilan web. Berguna untuk membedakan antara isi halaman web dan header dari halaman itu sendiri </p>
 
 Bisa cek Tag-Tag nya di repositori ya yang mau belajar...🤞
 

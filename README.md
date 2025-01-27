@@ -14,6 +14,14 @@ menggunakan web broser yaitu Mozila Firefox, Google Chrome, Safari dan lain seba
 <p align = "justify"> HTML Charset ini berguna untuk menampilkan halaman HTML secara benar,guna dari tag ini agar web browser harus mengetahui pengaturan yang akan digunakan. </p>
 <b> 2. HTML HEADING </b>
 <p align = "justify"> HTML Heading adalah tag dasar html yang berfungsi untuk membuat heading pada tampilan web. Berguna untuk membedakan antara isi halaman web dan header dari halaman itu sendiri </p>
+<b> 3. HTML PARAGRAPH </b>
+<p align = "justify"> HTML Paragraph adalah untuk membuat isi pada halaman web </p>
+<b> 4. HTML LINE BREAK </b>
+<p align = "justify"> HTML Line Break berfungsi seperti enter pada keyboard untuk membuat baris baru dalam element html. </p>
+<b> 5. HTML FONT </b>
+<p align = "justify"> HTML Font Berfungsi untuk mengatur warna bentuk dan ukuran tulisan pada halaman HTML .</p>
+<b> 6. HTML FORMATING </b>
+<p align = "justify"> HTML FOrmatting adalah tag dasar html untuk membuat format penulisan dalam element html. Misalnya menebalkan tulisan, membuat huruf menjadi miring dan lain-lain. dan ada beberapa jenis nya yaitu Bold Text, Important Text, Italic Text, Emphasized Text,Marked Text,Small Text, Deleted Text, Inserted Text, Subscripts, dan Superscripts </p>
 
 Bisa cek Tag-Tag nya di repositori ya yang mau belajar...🤞
 

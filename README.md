@@ -23,6 +23,9 @@ menggunakan web broser yaitu Mozila Firefox, Google Chrome, Safari dan lain seba
 <b> 6. HTML FORMATING </b>
 <p align = "justify"> HTML Formatting adalah tag dasar html untuk membuat format penulisan dalam element html. Misalnya menebalkan tulisan, membuat huruf menjadi miring dan lain-lain. dan ada beberapa jenis nya yaitu Bold Text, Important Text, Italic Text, Emphasized Text,Marked Text,Small Text, Deleted Text, Inserted Text, Subscripts, dan Superscripts </p>
 
+<b> 7. HTML IMAGES </b>
+<p align = "justify"> HTML IMAGES berguna untuk memasukkan gambar pada halaman web. Dengan cara memanggil gambar yang tersimpan.</p>
+
 Bisa cek Tag-Tag nya di repositori ya yang mau belajar...🤞
 
 Dee-Glit1015

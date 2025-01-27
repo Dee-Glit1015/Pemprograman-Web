@@ -21,7 +21,7 @@ menggunakan web broser yaitu Mozila Firefox, Google Chrome, Safari dan lain seba
 <b> 5. HTML FONT </b>
 <p align = "justify"> HTML Font Berfungsi untuk mengatur warna bentuk dan ukuran tulisan pada halaman HTML .</p>
 <b> 6. HTML FORMATING </b>
-<p align = "justify"> HTML FOrmatting adalah tag dasar html untuk membuat format penulisan dalam element html. Misalnya menebalkan tulisan, membuat huruf menjadi miring dan lain-lain. dan ada beberapa jenis nya yaitu Bold Text, Important Text, Italic Text, Emphasized Text,Marked Text,Small Text, Deleted Text, Inserted Text, Subscripts, dan Superscripts </p>
+<p align = "justify"> HTML Formatting adalah tag dasar html untuk membuat format penulisan dalam element html. Misalnya menebalkan tulisan, membuat huruf menjadi miring dan lain-lain. dan ada beberapa jenis nya yaitu Bold Text, Important Text, Italic Text, Emphasized Text,Marked Text,Small Text, Deleted Text, Inserted Text, Subscripts, dan Superscripts </p>
 
 Bisa cek Tag-Tag nya di repositori ya yang mau belajar...🤞
 

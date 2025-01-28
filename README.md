@@ -47,15 +47,15 @@ Terdiri dari 3 HTML Table Yaitu :
 <p align = "justify"> Tag HTML Form berguna untuk mengambil data yang di iputkan oleh user.</p>
 Adapun Tipe input yang ada dalam html :
 <ol type = 'a'>
-<li>Text Input </li>
-<li>RadioButton Input </li>
-<li>Submit Button </li>
-<li>Password </li>
-<li>Checkbox </li>
-<li>Button </li>
-<li>Textarea Element</li> 
-<li>Combobox </li>
-<li>Method Attribute ( Post dan Get) </li>
+<li> Text Input </li>
+<li> RadioButton Input </li>
+<li> Submit Button </li>
+<li> Password </li>
+<li> Checkbox </li>
+<li> Button </li>
+<li> Textarea Element</li> 
+<li> Combobox </li>
+<li> Method Attribute (Post dan Get) </li>
 </ol>
 
 Bisa cek Tag-Tag nya di repositori ya yang mau belajar...🤞

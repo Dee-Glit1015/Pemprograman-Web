@@ -24,6 +24,39 @@ menggunakan web broser yaitu Mozila Firefox, Google Chrome, Safari dan lain seba
 <p align = "justify"> HTML Formatting adalah tag dasar html untuk membuat format penulisan dalam element html. Misalnya menebalkan tulisan, membuat huruf menjadi miring dan lain-lain. dan ada beberapa jenis nya yaitu Bold Text, Important Text, Italic Text, Emphasized Text,Marked Text,Small Text, Deleted Text, Inserted Text, Subscripts, dan Superscripts. </p>
 <b> 7. HTML IMAGES </b>
 <p align = "justify"> HTML IMAGES berguna untuk memasukkan gambar pada halaman web. Dengan cara memanggil gambar yang tersimpan.</p>
+<b> 8. HTML LINK </b>
+<p align = "justify"> HTML LINKS adalah tag dasar untuk membuat link/url didalam halaman web sehingga dapat menghubungkan antara halaman web yang satu dengan yang lain.</p>
+<b> 9. HTML LIST </b>
+<p align = "justify"> HTML LIST berguna untuk membuat Numbering List maupun Bullet List pada element HTML.</p>
+Terdiri atas 2 Unordered List yaitu : 
+<ol>
+<li>Bullet List</li>
+<li>Ordered List</li>
+</ol>
+<b> 10. HTML TABLE </b>
+<p align = "justify"> HTML Table adalah tag dasar HTML untuk membuat table di dalam halaman web html.</p>
+Terdiri dari 3 HTML Table Yaitu :
+<ol>
+<li>Table Heading </li>
+<li>Column Spanning </li>
+<li>Row Spanning </li>
+</ol>
+<b> 11. HTML COMMENT </b>
+<p align = "justify"> Tag ini berguna untuk membuat comment dalam html.</p>
+<b> 12. HTML FORM </b>
+<p align = "justify"> Tag HTML Form berguna untuk mengambil data yang di iputkan oleh user.</p>
+Adapun Tipe input yang ada dalam html :
+<ol type = 'a'>
+<li>Text Input </li>
+<li>RadioButton Input </li>
+<li>Submit Button </li>
+<li>Password </li>
+<li>Checkbox </li>
+<li>Button </li>
+<li>Textarea Element</li> 
+<li>Combobox </li>
+<li>Method Attribute ( Post dan Get) </li>
+</ol>
 
 Bisa cek Tag-Tag nya di repositori ya yang mau belajar...🤞
 

@@ -57,6 +57,19 @@ Adapun Tipe input yang ada dalam html :
 <li>Combobox</li>
 <li>Method Attribute (Post dan Get)</li>
 </ol>
+<b>Dasar-Dasar CSS </b>
+<p align = "justify">
+  <b>A.Pengertian CSS </b>
+  <br> CSS adalah kepanjangan dari Cascading Style Sheets, yang berfungsi untuk mengintrol tampilan dari sebuah halaman website. Dengan mengunakan CSS cukup satu kode untuk semua mark up yang sama pada tag HTML.</br>
+  
+  <b>B.Struktur Dasar CSS </b>
+  Sintak dari CSS berbeda dengan HTML apabila HTML menggunakan tag dan atribute, maka CSS menggunakan selector, dimna selector memiliki declarations. Declarations memiliki properties value. Sintak-sintak CSS ini ada yang ada diselipkan di dalam dokumen HTML ada juga yang berupa file tersendiri yang dapat di akses oleh HTML. Secara garis besar anatomi dari aturan CSS adalah sebgai berikut :
+
+  ![image1](https://github.com/user-attachments/assets/ff39b4bb-c5f3-46ef-8cd8-7a94a254d803)
+
+ </p>
+
+
 
 Bisa cek Tag-Tag nya di repositori ya yang mau belajar...🤞
 

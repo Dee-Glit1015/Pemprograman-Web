@@ -63,12 +63,28 @@ Adapun Tipe input yang ada dalam html :
   <br> CSS adalah kepanjangan dari Cascading Style Sheets, yang berfungsi untuk mengintrol tampilan dari sebuah halaman website. Dengan mengunakan CSS cukup satu kode untuk semua mark up yang sama pada tag HTML.</br>
   
   <b>B.Struktur Dasar CSS </b>
-  Sintak dari CSS berbeda dengan HTML apabila HTML menggunakan tag dan atribute, maka CSS menggunakan selector, dimna selector memiliki declarations. Declarations memiliki properties value. Sintak-sintak CSS ini ada yang ada diselipkan di dalam dokumen HTML ada juga yang berupa file tersendiri yang dapat di akses oleh HTML. Secara garis besar anatomi dari aturan CSS adalah sebgai berikut :
+  <p align = "justify">
+  Sintak dari CSS berbeda dengan HTML apabila HTML menggunakan tag dan atribute, maka CSS menggunakan selector, dimna selector memiliki declarations. Declarations memiliki properties value. Sintak-sintak CSS ini ada yang ada diselipkan di dalam dokumen HTML ada juga yang berupa file tersendiri yang dapat di akses oleh HTML. Secara garis besar anatomi dari aturan CSS adalah sebgai berikut :</p>
 
   ![image1](https://github.com/user-attachments/assets/ff39b4bb-c5f3-46ef-8cd8-7a94a254d803)
+ 
 
- </p>
-
+ <b> C.Penempatan CSS </b>
+   <b> 1.EXTERNAL STYLE SHEET </b>
+   <p align = "justify">
+    External Style Sheet adalah penempatan css pada satu file css, file css tersebut dibuat dengan ekstensi css yang kemudian dipanggil menggunakan element link pada HTML.</p>
+     <b> 2.INTERNALL STYLE SHEET </b>
+      <p align = "justify">
+     Insternal Style Sheet adalah pendeklarasian style css yang ada didalam file HTML. Untuk mendeklarasi css ini kita menggunakan tag <stlye>.Biasanya digunakan jika file HTML itu meliki style tersendiri dan berbeda dengan style css halaman HTML yang lain.</p>
+     <b> 2.INTERNAL STYLE SHEET </b>
+      <p align = "justify">
+     Insternal Style Sheet adalah pendeklarasian style css yang ada didalam file HTML. Untuk mendeklarasi css ini kita menggunakan tag <stlye>.Biasanya digunakan jika file HTML itu meliki style tersendiri dan berbeda dengan style css halaman HTML yang lain.</p>
+     <b> 3.INLINE STYLE </b>
+      <p align = "justify">
+     Inline Style adalah pendeklarasian langsung pada tag-tag HTML.Untuk mendeklarasian css ini kita menggunakan attribut stlye pada tag HTML. Biasanya digunakan jika kita ingin membuat style seniri untuk satu tag di dalam HTML.</p>
+     <b> 4.MULTIPLE STYLE SHEET </b>
+      <p align = "justify">
+     Multiple style sheet adalah kondisi dimana satu halaman HTML memiliki 2 stlye css. Misalnya pada contoh syntax dibawah, kita menggunakan external style sheet dan internal style sheet. Di dalam external style sheet kita menggunakan property yang sama namun dengan vakue yang berbeda dengan style internal. Makan yang valuse yang akan dibaca adalah value internal style sheet karena merupakan value terakhir. Kondisinya akan berbeda jika penempatan element <link> verada dibawah tag style, maka yang dibaca value dari style external. </p>
 
 
 Bisa cek Tag-Tag nya di repositori ya yang mau belajar...🤞

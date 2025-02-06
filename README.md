@@ -86,7 +86,26 @@ Adapun Tipe input yang ada dalam html :
       <p align = "justify">
      Multiple style sheet adalah kondisi dimana satu halaman HTML memiliki 2 stlye css. Misalnya pada contoh syntax dibawah, kita menggunakan external style sheet dan internal style sheet. Di dalam external style sheet kita menggunakan property yang sama namun dengan vakue yang berbeda dengan style internal. Makan yang valuse yang akan dibaca adalah value internal style sheet karena merupakan value terakhir. Kondisinya akan berbeda jika penempatan element <link> verada dibawah tag style, maka yang dibaca value dari style external. </p>
 
+ <b> D. CSS SYNTAX </b>
+   <b> 1.SELECTOR </b>
+   <p align = "justify">
+   CSS selctor digunakan untuk menumakan atau memilih nama element, id, class, attribute dan lain-lain di dalam halaman HTML.</p>
+    <b> a.ELEMENT/ TAG </b>
+    <p align = "justify">
+    Elemen Selector memilih element atau tah sesuai nama tag yang ada di dalam halaman HTML.</p>
+    <b> b.ID </b>
+    <p align = "justify">
+ID Selector menggunakan atribut ID pada tag HTML untuk pemanggilnya. Biasanya digunakan untuk tag/ element yang meimilki style tersendiri . Untuk penulisan nya menggunakan tagar (#) kemudian nama id nya . Pengaplikasian pada html tag. element menggunakan atrribut id = "nama_selector_id"</p>
+<b> c.CLASS </b>
+    <p align = "justify">
+Class selector memilih element dengan atrribut class yang spesifik. Untuk memilih element atau tag yang spesifik, dengan menulis nama element kemudian di ikuti dengan tanda titik(.) dan di lanjtkan dengan anam class yang di deklarasikan . ada 2 Bentuk Umum dan Bentuk Classs Spesifik euntuk element / tag</p>
+<b> d. GROUPING </b>
+    <p align = "justify">
+Grouping Selector adalah penggabungan beberapa tag/element, yang memilki property dan value yang sama sehingga meringkas penulisan syantax, untuk melakukan grouping hal yang perlu di perhatikan adalah tanda ":" pada selector sebagai pemisah tag-tag/element.ada 2 dan Sebelum dan sesudah Gruping </p>
 
+![image](https://github.com/user-attachments/assets/f9550730-e0f0-4ec2-b695-598a7b5fe940)
+
+     
 Bisa cek Tag-Tag nya di repositori ya yang mau belajar...🤞
 
 Dee-Glit1015

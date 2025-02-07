@@ -105,7 +105,16 @@ Grouping Selector adalah penggabungan beberapa tag/element, yang memilki propert
 
 ![image](https://github.com/user-attachments/assets/f9550730-e0f0-4ec2-b695-598a7b5fe940)
 
-     
+  <b> 2. COMMENT </b>   
+ <p align = "justify">
+Comment digunakan untuk mendeskripsikan syntax yang ada pada css. dan akan di abaikan oleh browser. Pengaplikasian nya menggunakan /*....*/ berlaku untuk 1 baris maupun lebih. </p>
+ <b> E. PROPERTIES </b>  <br> 
+ <b> 1. COLOR </b>  
+ <p align = "justify">
+Terdapat 3 cara melakukan pewarnaan style dalam css, yaitu Valid Color Name, RGB Value. dan Hexadecimal Value. </p>
+
+
+  
 Bisa cek Tag-Tag nya di repositori ya yang mau belajar...🤞
 
 Dee-Glit1015

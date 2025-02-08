@@ -126,7 +126,8 @@ Terdapat 3 cara melakukan pewarnaan style dalam css, yaitu Valid Color Name, RGB
  <p align = "justify">
    Border Style property digunakan untuk membuat tampilan border pada tag html. </p>
    Hasil :
-![image](https://github.com/user-attachments/assets/86782e7a-5836-43f8-9253-80ffbd783455)
+
+![image](https://github.com/user-attachments/assets/5f718832-c2e1-47b9-a590-d75786a418e6)
 
 
  <br>
@@ -138,7 +139,7 @@ Terdapat 3 cara melakukan pewarnaan style dalam css, yaitu Valid Color Name, RGB
 <li>Auto untuk mengatur ukuran secara otomatis</li>
 <li>Px,pt,cm untuk mengatur ukuran sesuai dengan kemauan dari kita sendiri </li>
 <li>Persen (%) Mengatur jarak menggunakan persen misalnya 50% </li>
-<li>Ing=herit mengatur jarak sesuai dengan element kepala.</li>
+<li>Inherit mengatur jarak sesuai dengan element kepala.</li>
 </ul>  
   
 

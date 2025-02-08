@@ -112,9 +112,33 @@ Comment digunakan untuk mendeskripsikan syntax yang ada pada css. dan akan di ab
  <b> 1. COLOR </b>  
  <p align = "justify">
 Terdapat 3 cara melakukan pewarnaan style dalam css, yaitu Valid Color Name, RGB Value. dan Hexadecimal Value. </p>
-
-
+ <b> 2. BACKGROUND </b>  
+ <p align = "justify">
+   CSS Background digunakan untuk mengatur style background suatu tag/element. Terdiri dari beberapa properties diantaranya. </p>
+<ul>
+<li>background-color</li>
+<li>background-image</li>
+<li>background-repeat</li>
+<li>background-attachment</li>
+<li>background-position </li>
+</ul>
+   <b> 3. BORDER </b>  
+ <p align = "justify">
+   Border Style property digunakan untuk membuat tampilan border pada tag html. </p>
+   Hasil :
+![image](https://github.com/user-attachments/assets/140d1590-a9d6-41fe-822a-0ede31769675)
+<b> 4. MARGIN </b>
+<p align = "justify">
+   Margin digunakan untuk mengatur jarak antar elemen pada html .Untuk valuenya dapat menggunakan auto,px,pt,cm,%, inherit,dll. </p>
+ <ul>
+<li>Auto untuk mengatur ukuran secara otomatis</li>
+<li>Px,pt,cm untuk mengatur ukuran sesuai dengan kemauan dari kita sendiri </li>
+<li>Persen (%) Mengatur jarak menggunakan persen misalnya 50% </li>
+<li>Ing=herit mengatur jarak sesuai dengan element kepala.</li>
+</ul>  
   
+
+
 Bisa cek Tag-Tag nya di repositori ya yang mau belajar...🤞
 
 Dee-Glit1015

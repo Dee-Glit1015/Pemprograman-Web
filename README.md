@@ -126,7 +126,9 @@ Terdapat 3 cara melakukan pewarnaan style dalam css, yaitu Valid Color Name, RGB
  <p align = "justify">
    Border Style property digunakan untuk membuat tampilan border pada tag html. </p>
    Hasil :
-![image](https://github.com/user-attachments/assets/0516d77a-9b97-4d27-b6eb-516eaf1deb80)
+![image](https://github.com/user-attachments/assets/86782e7a-5836-43f8-9253-80ffbd783455)
+
+
  <br>
 
 <b> 4. MARGIN </b>

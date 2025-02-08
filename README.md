@@ -126,7 +126,9 @@ Terdapat 3 cara melakukan pewarnaan style dalam css, yaitu Valid Color Name, RGB
  <p align = "justify">
    Border Style property digunakan untuk membuat tampilan border pada tag html. </p>
    Hasil :
-![image](https://github.com/user-attachments/assets/140d1590-a9d6-41fe-822a-0ede31769675)
+![image](https://github.com/user-attachments/assets/0516d77a-9b97-4d27-b6eb-516eaf1deb80)
+ <br>
+
 <b> 4. MARGIN </b>
 <p align = "justify">
    Margin digunakan untuk mengatur jarak antar elemen pada html .Untuk valuenya dapat menggunakan auto,px,pt,cm,%, inherit,dll. </p>

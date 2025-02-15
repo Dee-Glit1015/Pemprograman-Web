@@ -141,9 +141,28 @@ Terdapat 3 cara melakukan pewarnaan style dalam css, yaitu Valid Color Name, RGB
 <li>Persen (%) Mengatur jarak menggunakan persen misalnya 50% </li>
 <li>Inherit mengatur jarak sesuai dengan element kepala.</li>
 </ul>  
+  <b> 5. PADDING </b>
+<p align = "justify">
+   Padding digunakan untuk mengatur space element content dan element border pada html, maksudnya adalah mengatur jarak suatu elemeny yang terdapat di dalam elemen kepala. Untuk valuenya dapat menggunakan auto, px,pt, cm. % inherit,dll </p>
+<ul>
+<li>Auto untuk mengatur ukuran secara otomatis</li>
+<li>Px,pt,cm untuk mengatur ukuran sesuai dengan kemauan dari kita sendiri </li>
+<li>Persen (%) Mengatur jarak menggunakan persen misalnya 50% </li>
+<li>Inherit mengatur jarak sesuai dengan element kepala.</li>
+</ul>  
+<b> 6. HEIGHT/WIDTH </b>
+<p align = "justify">
+Height untuk mengatur tinggi suatu style, sedangkan wifth digunakan untuk mengatur lebar suatu style, biasa digunakan pada tag layout <div> untuk mengatur ukuran.</p>
+<b> 7. HEIGHT/WIDTH </b>
+<p align = "justify">
+Pada CSS Text kita dapat mengatur style mulai dari warna text, alignment, case text, indent text, jarak kata, arah teks, jarak antar line, jaral antar huruf dan underline atau tidak.</p>
+<b> 8. FONTS </b>
+<p align = "justify">
+CSS font properties mendefinisikan font family, ketebalan, ukuran, and the style dari senuah text pada element html. </p>
+<b> 9. ROUNDED CORNER </b>
+<p align = "justify">
+Property CSS3 yang dapat membuat tampilan di setiap sudut. Menjadi rounded atau tak bersudut. </p>
   
-
-
 Bisa cek Tag-Tag nya di repositori ya yang mau belajar...🤞
 
 Dee-Glit1015

@@ -1,0 +1,238 @@
+body
+{
+    background-image: ("home.jpg");
+}
+ahead
+{
+    width: 1024 px;
+    height: 150 px;
+    background-color: #393939;
+    border-radius: 5px;
+    margin-right: auto;
+    margin-left: auto;
+}
+h1{
+    font-family: verdana;
+    padding-top:55px;
+}
+h2
+{
+    font-family: verdana;
+    padding-left: 300px;
+    padding-top: 100px;
+    padding-bottom: 10px;
+}
+h2.h2login
+{
+    font-family: Verdana;
+    color:black;
+    text-align: center;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2.h2register
+{
+    font-family: verdana;
+    color:black;
+    text-align: center;
+    padding-top: 10 px;
+    padding-left:10 px;
+    padding-bottom:  10 px;
+    padding-right: 10 px;
+    margin-left:auto;
+    margin-right:auto;
+}
+ul
+{
+    list-style-type: none;
+    margin:0;
+    padding : 2px;
+    overflow: hidden;
+    background-color:afafaf;
+    border-radius: 5px;
+} 
+li{
+    float: left;
+    width: 99px;
+    height:45px;
+    border-radius: 5px;
+}
+li a{
+    display: black;
+    color:white;
+    text-align: center;
+    padding: 14px 16 px;
+    text-decoration: none;
+}
+li a {
+    display: block;
+    color:white;
+    text-align: center;
+    padding: 14px 16 px;
+    text-decoration: none;
+}
+li a :hover{
+    background-color: #393939;
+    border-radius: 5px;
+    height: auto;
+}
+#nav{
+    width: 1024px;
+    height: 51 px;
+    background-color: #afafaf;
+    border-radius: 5px;
+    margin-right: auto;
+    margin-left:auto;
+    font-family:verdana;
+}
+#body
+{
+    width: 1024px;
+    height: auto;
+    background-color: white;
+    border-radius: 5px;
+    margin-right: 5px;
+    margin-left: auto;
+    margin-top: -20px;
+    font-family: verdana;
+}
+
+div.bodyindex
+{
+    width:1024px;
+    height: auto;
+    background-color: white;
+    border-radius: 5px;
+    margin-right:auto;
+    margin-left: auto;
+    margin-top: -24px;
+} 
+div.bodylogin
+{
+    width: 1024;
+    height: auto;
+    background-color: white;
+    border-radius: 5px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    padding-top:100px;
+    padding-bottom:100 px;
+}
+div.bodyregister
+{
+    width: 1024;
+    height: auto;
+    background-color: white;
+    border-radius: 5px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    padding-top:100px;
+    padding-bottom: 100px;
+    
+}
+#title
+{
+    height: 75px;
+    width: 500px;
+    background-color:#afafaf;
+    margin-right:auto;
+    margin-left:auto;
+    border: radius 5px;
+    font-family:verdana;
+    font-size: 24px;
+}
+#content{
+    padding: 10 10;
+    height:auto;
+    width:500px;
+    background-color:white;
+    margin-right: auto;
+    border: radius 5px;
+    font-family:verdana;
+}
+#footer
+{
+    width:1024;
+    height: 70px;
+    background-color: #393939;
+    border-radius: 5px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: -18px;
+    font-family: Verdana ;
+    text-align:center;
+    padding-top: 50px;
+}
+div.footerlogin
+{
+    width: 1024px;
+    height: 70px;
+    background-color: #393939;
+    border-radius: 5px;
+    margin-right: auto;
+    margin-left: 5px;
+    font-family: Verdana;
+    text-align: center;
+    padding-top: 50px;
+
+}
+div.footerregister
+{
+    width:1024px;
+    height: 70px;
+    background-color: #393939;
+    border-radius :5px;
+    border-right: auto;
+    margin-left: auto;
+    font-family: verdana;
+    text-align: center;
+    padding-top: 50px;
+
+}
+div.footerindex
+{
+    width: 1024px ;
+    height: 70px;
+    background-color: #393939;
+    border-radius: 5px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: -24px;
+    font-family: verdana;
+    text-align: center;
+    padding-top: 50px;
+
+}
+p{
+    padding-left: 300px;
+    padding-bottom: 100px;
+    padding-right: 150;
+    font-family: verdana;
+    font-size: 18px;
+    text-align: justify;
+}
+p.index
+{
+    padding-top: 100px;
+    padding-bottom:100px;
+    padding-right: 150;
+    font-family: verdana;
+    font-size: 24px;
+    text-align: justify;
+}
+tr{
+    height: 50px;
+    width: 50;
+}
+table
+{
+    padding-bottom: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
